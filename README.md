@@ -2,7 +2,7 @@
 - 👀 I’m interested in Federated Learning and Foundation Models.
 - 🌱 I’m currently working on Federated Learning for Timeseries Prediction.
 - 📫 How to reach me: quanlv.phoebus@gmail.com
-- 📫 My google scholar: https://scholar.google.com/citations?user=EOAnZCsAAAAJ&hl=vi&authuser=3
+- 📫 My google scholar: <a href="[https://example.com](https://scholar.google.com/citations?user=EOAnZCsAAAAJ&hl=vi&authuser=3)" target="_blank">La Van Quan</a>
 - 📫 My homepage: https://lavanquan.github.io/
 <!---
 lavanquan/lavanquan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
